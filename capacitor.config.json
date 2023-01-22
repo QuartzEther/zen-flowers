@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ZenFlowers",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

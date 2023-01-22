@@ -1,0 +1,8 @@
+{
+  "name": "ZenFlowers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "baa3406f"
+}
